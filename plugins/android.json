@@ -767,6 +767,10 @@
         },
         "cordova-plugin-tune": {
             "PACKAGE_NAME": "com.blocktrail.mywallet"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "503677915835",
+            "PACKAGE_NAME": "com.blocktrail.mywallet"
         }
     },
     "dependent_plugins": {
